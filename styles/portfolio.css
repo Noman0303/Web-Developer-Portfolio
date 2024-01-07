@@ -194,3 +194,14 @@ font-weight: 700;
     font-weight: 400;
     padding-right: 20px;
 }
+
+.resume-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
